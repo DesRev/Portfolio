@@ -477,7 +477,10 @@ body:not(.user-is-tabbing) a:focus {
     transform: scale(1.2);
 }
 
-.work__image-box {
+.work__image-box1 {
+    margin-bottom: var(--gutter-normal);
+}
+.work__image-box2 {
     margin-bottom: var(--gutter-normal);
 }
 

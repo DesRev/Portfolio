@@ -477,12 +477,10 @@ body:not(.user-is-tabbing) a:focus {
     transform: scale(1.2);
 }
 
-.work__image-box1 {
+.work__image-box {
     margin-bottom: var(--gutter-normal);
 }
-.work__image-box2 {
-    margin-bottom: var(--gutter-normal);
-}
+
 
 @media(min-width: 901px) {
     .work__image-box {

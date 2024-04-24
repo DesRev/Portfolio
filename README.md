@@ -12,15 +12,15 @@ Here are some of the projects I've worked on:
 
 1. Portfolio : Technical portfolio showcasing web development skills.
    - Technologies Used: HTML, CSS, JavaScript
-   - Link: [Project Link](link_to_project)
+   - Link: [Project Link](https://desrev.github.io/Portfolio/ ))
 
 2. Python Game: Description of the project.
    - Technologies Used: Python
-   - Link: [Project Link](link_to_project)
+   - Link: [Project Link](https://github.com/DesRev?tab=repositories)
 
 3. ASP.NET MVC Web Application: Description of the project.
    - Technologies Used: ASP.NET MVC (C#)
-   - Link: [Project Link](link_to_project)
+   - Link: [Project Link](https://github.com/DesRev?tab=repositories)
 
 
 ## Skills
